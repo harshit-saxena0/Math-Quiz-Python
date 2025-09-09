@@ -1,4 +1,3 @@
-
 • Math Quiz in Python
 This is a simple command line Math Quiz built using Python.  
 Users can select an operator (Addition, Subtraction, or Multiplication) and answer randomly generated questions with multiple choice options (A/B/C/D).
